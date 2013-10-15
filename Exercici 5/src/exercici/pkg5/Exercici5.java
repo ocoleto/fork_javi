@@ -33,6 +33,8 @@ public class Exercici5 {
         
         System.out.println("La suma total es "+suma+" y el numero més gran es "+aux+" El menor es es "+menor);
         
+        System.out.println("Caraculo!");
+        
                 
     }
 }
